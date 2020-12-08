@@ -1,7 +1,8 @@
 <?php
 
+<<<<<<< HEAD
 	echo "Olá Mundo Hahaha!";
 
-	echo "Oi!"
+	echo "Oi 123!"
 
 ?>

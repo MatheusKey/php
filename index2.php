@@ -4,4 +4,6 @@
 
 	echo "Olá de novo de novo"
 
+	echo "Olá de novo!";
+
 ?>
